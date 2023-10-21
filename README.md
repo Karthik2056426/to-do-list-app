@@ -1,6 +1,6 @@
 # About the app	
 This a basic todolist app made with REACT JS that utilises the CRUD operations as well as makes use of certain hooks in React JS.
-You can click the link
+You can click/copy the link (https://karthik2056426.github.io/to-do-list-app/) to visualise the app in your browser.
 
 # Getting Started with Create React App
 
