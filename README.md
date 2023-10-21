@@ -1,3 +1,7 @@
+# About the app	
+This a basic todolist app made with REACT JS that utilises the CRUD operations as well as makes use of certain hooks in React JS.
+You can click the link
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
